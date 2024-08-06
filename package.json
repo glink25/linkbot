@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "tsx": "^4.16.5"
+  }
+}
